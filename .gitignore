@@ -432,7 +432,16 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# VS Code
+.vscode
+
 
 # MacOS
 
 .DS_Store
+
+
+# Cmake
+
+build
+targets
